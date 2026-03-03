@@ -1,4 +1,4 @@
-# 🚀 API Conversor de Unidades de Tempo
+# 🚀 Conversor de Unidades de Tempo
 
 Uma aplicação completa **full-stack** para conversão de unidades de tempo com interface moderna e responsiva.
 
@@ -56,8 +56,8 @@ Uma aplicação completa **full-stack** para conversão de unidades de tempo com
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/MaxsuelOliveira/web-calcular-horas.git
-cd web-calcular-horas
+git clone https://github.com/MaxsuelOliveira/web-calculadora-de-horas
+cd web-calculadora-de-horas
 ```
 
 ### 2. Instalar Dependências para o backend
@@ -325,8 +325,8 @@ Contribuições são bem-vindas!
 ## 📞 Suporte
 
 - 📧 Email: `olivieramaxsuellll@gmail.com`
-- 🐙 GitHub Issues: [Abrir Issue](https://github.com/MaxsuelOliveira/web-calcular-horas/issues)
-- 💬 Discussões: [Discussões do GitHub](https://github.com/MaxsuelOliveira/web-calcular-horas/discussions)
+- 🐙 GitHub Issues: [Abrir Issue](https://github.com/MaxsuelOliveira/web-calculadora-de-horas/issues)
+- 💬 Discussões: [Discussões do GitHub](https://github.com/MaxsuelOliveira/web-calculadora-de-horas/discussions)
 
 ---
 
@@ -338,12 +338,6 @@ Contribuições são bem-vindas!
 - 📱 Totalmente responsivo
 - 🔄 Conversão bidirecional em tempo real
 - 💾 Histórico persistent com SQLite
-
----
-
-**Última atualização**: Março 3, 2026  
-**Versão**: 2.1.0  
-**Status**: Production Ready ✅
 
 ---
 
