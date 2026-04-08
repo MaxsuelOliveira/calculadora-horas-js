@@ -2,21 +2,22 @@
 
 ![stack](https://img.shields.io/badge/stack-Node.js-1f6feb) ![focus](https://img.shields.io/badge/focus-Node.js-0f766e) ![status](https://img.shields.io/badge/status-ativo-2ea44f)
 
-Aplicação JavaScript para converter e calcular horas.
+Aplicação JavaScript para converter e calcular horas. Este repositório documenta uma implementação voltada a projeto de software, com base principal em Node.js e um resumo organizado para deixar escopo, tecnologias e estágio atual claros logo na primeira leitura.
 
-## Visao geral
+## Visão geral
 
-Projeto com foco em projeto usando Node.js. Ele destaca javascript, time-calculator, webapp de forma direta para facilitar a leitura de visitantes e recrutadores.
+Projeto desenvolvido com foco em projeto e stack principal em Node.js. Este repositório apresenta uma solução relacionada a javascript, time-calculator, webapp, destacando o contexto do problema, a direção técnica adotada e a forma recomendada de executar ou avaliar a entrega.
 
-## Stack
+## O que este projeto entrega
+
+- Escopo principal: Aplicação JavaScript para converter e calcular horas.
+- Stack central: Node.js.
+- Temas centrais trabalhados neste repositório: javascript, time-calculator, webapp.
+
+## Stack e execução
 
 - Node.js
 - JavaScript
-
-## Destaques
-
-- Aplicação JavaScript para converter e calcular horas.
-- Temas centrais: javascript, time-calculator, webapp.
 
 ## Como executar
 
@@ -26,7 +27,8 @@ Projeto com foco em projeto usando Node.js. Ele destaca javascript, time-calcula
 ## Status
 
 - Estado atual: ativo.
-- Repositorio pronto para revisao tecnica e navegacao rapida.
+- Repositório pronto para revisão técnica, navegação e evolução contínua.
+- Documentação alinhada ao template base atual do portfólio.
 
 ## Contato
 
